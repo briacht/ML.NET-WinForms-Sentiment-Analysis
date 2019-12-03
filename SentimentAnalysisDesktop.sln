@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SentimentAnalysisDesktop", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SentimentAnalysisDesktopML.Model", "SentimentAnalysisDesktopML.Model\SentimentAnalysisDesktopML.Model.csproj", "{A27E6919-A299-4E89-B7DA-E3B15530C44E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SentimentAnalysisDesktopML.ConsoleApp", "SentimentAnalysisDesktopML.ConsoleApp\SentimentAnalysisDesktopML.ConsoleApp.csproj", "{4BA6C473-2C5C-45DF-99B9-F209A267A894}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{A27E6919-A299-4E89-B7DA-E3B15530C44E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A27E6919-A299-4E89-B7DA-E3B15530C44E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A27E6919-A299-4E89-B7DA-E3B15530C44E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4BA6C473-2C5C-45DF-99B9-F209A267A894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4BA6C473-2C5C-45DF-99B9-F209A267A894}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4BA6C473-2C5C-45DF-99B9-F209A267A894}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4BA6C473-2C5C-45DF-99B9-F209A267A894}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

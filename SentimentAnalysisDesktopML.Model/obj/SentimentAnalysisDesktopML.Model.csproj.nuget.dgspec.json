@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brachtma\\source\\repos\\SentimentAnalysisDesktop\\SentimentAnalysisDesktopML.Model\\SentimentAnalysisDesktopML.Model.csproj": {}
+    "C:\\Users\\brachtma\\Documents\\GitHub\\ML.NET-WinForms-Sentiment-Analysis\\SentimentAnalysisDesktopML.Model\\SentimentAnalysisDesktopML.Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brachtma\\source\\repos\\SentimentAnalysisDesktop\\SentimentAnalysisDesktopML.Model\\SentimentAnalysisDesktopML.Model.csproj": {
+    "C:\\Users\\brachtma\\Documents\\GitHub\\ML.NET-WinForms-Sentiment-Analysis\\SentimentAnalysisDesktopML.Model\\SentimentAnalysisDesktopML.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brachtma\\source\\repos\\SentimentAnalysisDesktop\\SentimentAnalysisDesktopML.Model\\SentimentAnalysisDesktopML.Model.csproj",
+        "projectUniqueName": "C:\\Users\\brachtma\\Documents\\GitHub\\ML.NET-WinForms-Sentiment-Analysis\\SentimentAnalysisDesktopML.Model\\SentimentAnalysisDesktopML.Model.csproj",
         "projectName": "SentimentAnalysisDesktopML.Model",
-        "projectPath": "C:\\Users\\brachtma\\source\\repos\\SentimentAnalysisDesktop\\SentimentAnalysisDesktopML.Model\\SentimentAnalysisDesktopML.Model.csproj",
+        "projectPath": "C:\\Users\\brachtma\\Documents\\GitHub\\ML.NET-WinForms-Sentiment-Analysis\\SentimentAnalysisDesktopML.Model\\SentimentAnalysisDesktopML.Model.csproj",
         "packagesPath": "C:\\Users\\brachtma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brachtma\\source\\repos\\SentimentAnalysisDesktop\\SentimentAnalysisDesktopML.Model\\obj\\",
+        "outputPath": "C:\\Users\\brachtma\\Documents\\GitHub\\ML.NET-WinForms-Sentiment-Analysis\\SentimentAnalysisDesktopML.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -24,8 +24,7 @@
           "netstandard2.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {},
-          "https://devdiv.pkgs.visualstudio.com/_packaging/ModelBuilder/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
